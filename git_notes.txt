@@ -29,7 +29,9 @@ follow below things, remove existing and add username password here.
 
 control panel > user accounts > credential manager > Windows credentials > Generic credentials
 
+or
 
+C:\Users\Dell\.gitconfig
 
 
 
