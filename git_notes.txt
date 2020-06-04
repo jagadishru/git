@@ -24,6 +24,13 @@ Rename branch = $ git branch -m old_branch_name new_branch_name
 
 
 
+Git User related Issues / Credentials related issues:
+follow below things, remove existing and add username password here.
+
+control panel > user accounts > credential manager > Windows credentials > Generic credentials
+
+
+
 
 
 
