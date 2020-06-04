@@ -1,0 +1,25 @@
+git init
+git remote add origin "repository path"
+git pull origin master
+
+Add multiple files:
+git add -A
+
+Commit multiple files:
+git commit -a -m "commit message here"
+
+
+ls = list files
+git ls-files
+
+
+Create new branch = git branch branch_name
+Move to branch =  git checkout branch_name
+Create and Move to new branch = git checkout -b branch_name // or // git checkout -b "branch_name"
+
+Delete branch = git branch -d branch_name(from different branch only it delete)
+
+
+
+
+
