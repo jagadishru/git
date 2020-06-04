@@ -2,10 +2,10 @@ git init
 git remote add origin "repository path"
 git pull origin master
 
-Add multiple files:
+Add multiple files(new files):
 git add -A
 
-Commit multiple files:
+Commit multiple files(existing files only not new files):
 git commit -a -m "commit message here"
 
 
@@ -18,6 +18,10 @@ Move to branch =  git checkout branch_name
 Create and Move to new branch = git checkout -b branch_name // or // git checkout -b "branch_name"
 
 Delete branch = git branch -d branch_name(from different branch only it delete)
+
+
+Rename branch = $ git branch -m old_branch_name new_branch_name
+
 
 
 
